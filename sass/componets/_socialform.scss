@@ -1,0 +1,12 @@
+.section-social{
+    &__form{
+        width:50%;
+        padding:6rem;
+    }
+
+    &__header{
+        font-size: 3rem;
+        color:$color-aux-3;
+        text-transform: uppercase;
+    }
+}

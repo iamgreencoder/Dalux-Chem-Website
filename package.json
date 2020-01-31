@@ -1,0 +1,26 @@
+{
+  "name": "dalux-website",
+  "version": "1.0.0",
+  "description": "Landing page for painting producing company",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass":"node-sass sass/main.scss css/styles.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "iamgreencoder"
+  },
+  "keywords": [
+    "paint",
+    "lagos",
+    "nigeria",
+    "chemical",
+    "industry",
+    "painting"
+  ],
+  "author": "Blakcoder",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
